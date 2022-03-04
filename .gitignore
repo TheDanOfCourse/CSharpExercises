@@ -1,0 +1,71 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio temp something
+.vs/
+.vscode/
+
+# Visual Studio temp something
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+#files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.scc
+
+# OS generated files #
+.DS_Store*
+Icon?
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+app/Dockerfile_old
+app/Dockerfile - Copia
+/app/src/Itau.Acompanhamento.Disclaimer.API/Itau.Acompanhamento.Disclaimer.API/Properties/PublishProfiles/FolderProfile.pubxml
+/app/src/Dockerfile
